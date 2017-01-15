@@ -1,0 +1,68 @@
+html {
+  margin: 3px;
+  height: 100%;
+
+}
+
+header {
+  margin: 3px;
+  padding: 20px;
+  display: block;
+  width: 100%;
+  text-align: center;
+  background-color: brown;
+
+}
+
+body {
+  margin: 3px;
+  height: 100%;
+
+}
+
+h1 {
+  color: pink;
+  font-family: Arial, sans-serif;
+
+}
+
+section {
+  margin: 3px;
+  width: 600px;
+  height: 700px;
+  display: inline-block;
+  background-color: orange;
+  padding: 20px;
+  border-spacing: 50%;
+
+}
+
+nav {
+  margin: 3px;
+  line-height:100%;
+  height: 100%;
+  background-color:black;
+  width: 300px;
+  display: inline-block;
+  vertical-align: top;
+    padding: 20px;
+
+}
+
+nav li a {
+  color: orange;
+}
+
+footer {
+  margin: 3px;
+  width: 100%;
+  background-color:green;
+  text-align: center;
+  padding: 20px;
+  display: block;
+}
+
+p {
+  margin: 3px;
+  color: black;
+}
